@@ -2,8 +2,9 @@
   "email": "gyaneshwarsingh8986@gmail.com",
   "profile": {
     "name": "Gyaneshwar Singh",
-    "role": "Full Stack Developer | MERN | AI SaaS",
-    "bio": "Relentless learner. Builder of scalable full-stack and AI-powered products. Ruthless with bugs.",
+    "role": "Full Stack Developer",
+    "bio": "Relentless in learning. Ruthless with bugs.",
+    "email": "gyaneshwarsingh8986@gmail.com",
     "image": "https://img.freepik.com/free-vector/cute-ninja-working-computer-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-11144.jpg",
     "imageName": "profile_image.jpg"
   },
@@ -13,40 +14,42 @@
       "href": "https://github.com/gyanuu"
     },
     {
-      "type": "linkedin",
-      "href": "https://linkedin.com/in/gyanuu"
-    },
-    {
       "type": "twitter",
       "href": "https://twitter.com/Gyaneshwar2608"
+    },
+    {
+      "type": "linkedin",
+      "href": "https://linkedin.com/in/gyanuu"
     },
     {
       "type": "instagram",
       "href": "https://instagram.com/rextarzgyanu_2608"
     }
   ],
-  "projects": [
+  "gridLinks": [
     {
       "title": "AI SaaS Platform",
-      "description": "A modern AI-powered SaaS platform offering multiple tools for productivity and creativity.",
+      "description": "A modern AI-powered SaaS platform with multiple AI tools for productivity and creativity.",
       "image": "https://example.com/project-image-1.jpg",
-      "url": "https://quick-ai-delta-olive.vercel.app/"
+      "url": "https://quick-ai-delta-olive.vercel.app/",
+      "layout": "grid"
     },
     {
-      "title": "Thirtysix Studio Website Clone",
-      "description": "Pixel-perfect clone showcasing advanced UI, animations, and frontend architecture.",
+      "title": "Thirtysix Studio Clone",
+      "description": "A clone of the Thirtysix Studio website, showcasing design and development skills.",
       "image": "https://example.com/project-image-2.jpg",
-      "url": "https://github.com/gyanuu"
+      "url": "https://github.com/gyanuu",
+      "layout": "grid"
     },
     {
       "title": "Doctor Appointment System",
-      "description": "A full-stack system for booking, managing, and tracking doctor appointments.",
+      "description": "A full-stack system to manage doctor appointments efficiently.",
       "image": "https://example.com/project-image-3.jpg",
-      "url": "https://prescripto-full-stack-i2s6.vercel.app/"
+      "url": "https://prescripto-full-stack-i2s6.vercel.app/",
+      "layout": "grid"
     }
   ],
   "settings": {
     "layout": "grid"
   }
 }
-
