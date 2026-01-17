@@ -2,10 +2,9 @@
   "email": "gyaneshwarsingh8986@gmail.com",
   "profile": {
     "name": "Gyaneshwar Singh",
-    "role": "Full Stack Developer",
-    "bio": "Relentless in learning. Ruthless with bugs.",
-    "email": "gyaneshwarsingh8986@gmail.com",
-    "image": "https://img.freepik.com/free-vector/cute-ninja-working-computer-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-11144.jpg?semt=ais_hybrid&w=740&q=80",
+    "role": "Full Stack Developer | MERN | AI SaaS",
+    "bio": "Relentless learner. Builder of scalable full-stack and AI-powered products. Ruthless with bugs.",
+    "image": "https://img.freepik.com/free-vector/cute-ninja-working-computer-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-11144.jpg",
     "imageName": "profile_image.jpg"
   },
   "socialLinks": [
@@ -14,65 +13,40 @@
       "href": "https://github.com/gyanuu"
     },
     {
-      "type": "twitter",
-      "href": "https://twitter.com/Gyaneshwar2608"
-    },
-    {
       "type": "linkedin",
       "href": "https://linkedin.com/in/gyanuu"
     },
     {
+      "type": "twitter",
+      "href": "https://twitter.com/Gyaneshwar2608"
+    },
+    {
       "type": "instagram",
       "href": "https://instagram.com/rextarzgyanu_2608"
-    },
-    {
-      "type": "youtube",
-      "href": "https://youtube.com/@username"
-    },
-    {
-      "type": "medium",
-      "href": "https://medium.com/@username"
-    },
-    {
-      "type": "dribbble",
-      "href": "https://dribbble.com/username"
-    },
-    {
-      "type": "behance",
-      "href": "https://behance.net/username"
     }
   ],
-  "gridLinks": [
+  "projects": [
     {
-      "title": "AI Saas Platform",
-      "description": "A modern AI-powered SaaS platform with multiple AI tools and features for productivity and creativit",
+      "title": "AI SaaS Platform",
+      "description": "A modern AI-powered SaaS platform offering multiple tools for productivity and creativity.",
       "image": "https://example.com/project-image-1.jpg",
-      "url": "https://quick-ai-delta-olive.vercel.app/",
-      "layout": "grid"
+      "url": "https://quick-ai-delta-olive.vercel.app/"
     },
     {
-      "title": "Thirtysix Studio Clone",
-      "description": "A clone of the Thirtysix Studio website, showcasing my design and development skills.",
+      "title": "Thirtysix Studio Website Clone",
+      "description": "Pixel-perfect clone showcasing advanced UI, animations, and frontend architecture.",
       "image": "https://example.com/project-image-2.jpg",
-      "url": "https://github.com/gyanuu",
-      "layout": "grid"
+      "url": "https://github.com/gyanuu"
     },
     {
       "title": "Doctor Appointment System",
-      "description": "A system to manage doctor appointments, allowing patients to book and manage their appointments easily.",
+      "description": "A full-stack system for booking, managing, and tracking doctor appointments.",
       "image": "https://example.com/project-image-3.jpg",
-      "url": "https://prescripto-full-stack-i2s6.vercel.app/",
-      "layout": "grid"
-    },
-    {
-      "title": "Project Title 4",
-      "description": "A brief description of your project",
-      "image": "https://example.com/project-image-4.jpg",
-      "url": "https://example.com/project-4",
-      "layout": "grid"
+      "url": "https://prescripto-full-stack-i2s6.vercel.app/"
     }
   ],
   "settings": {
-    "layout": "list"
+    "layout": "grid"
   }
 }
+
