@@ -3,49 +3,20 @@
   "profile": {
     "name": "Gyaneshwar Singh",
     "role": "Full Stack Developer",
-    "bio": "Relentless in learning. Ruthless with bugs.",
-    "email": "gyaneshwarsingh8986@gmail.com",
-    "image": "https://example.com/your-image.jpg",
-    "imageName": "profile_image.jpg"
+    "bio": "Relentless in learning. Ruthless with bugs."
   },
   "socialLinks": [
     {
       "type": "github",
       "href": "https://github.com/gyanuu"
-    },
-    {
-      "type": "twitter",
-      "href": "https://twitter.com/Gyaneshwar2608"
-    },
-    {
-      "type": "linkedin",
-      "href": "https://linkedin.com/in/gyanuu"
-    },
-    {
-      "type": "instagram",
-      "href": "https://instagram.com/rextarzgyanu_2608"
     }
   ],
   "gridLinks": [
     {
-      "title": "AI SaaS Platform",
-      "description": "A modern AI-powered SaaS platform with multiple AI tools for productivity and creativity.",
-      "image": "https://example.com/project-image-1.jpg",
-      "url": "https://quick-ai-delta-olive.vercel.app/",
-      "layout": "grid"
-    },
-    {
-      "title": "Thirtysix Studio Clone",
-      "description": "A clone of the Thirtysix Studio website, showcasing design and development skills.",
-      "image": "https://example.com/project-image-2.jpg",
+      "title": "My Project",
+      "description": "A sample project",
+      "image": "https://via.placeholder.com/300",
       "url": "https://github.com/gyanuu",
-      "layout": "grid"
-    },
-    {
-      "title": "Doctor Appointment System",
-      "description": "A full-stack system to manage doctor appointments efficiently.",
-      "image": "https://example.com/project-image-3.jpg",
-      "url": "https://prescripto-full-stack-i2s6.vercel.app/",
       "layout": "grid"
     }
   ],
