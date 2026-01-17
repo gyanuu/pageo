@@ -1,26 +1,75 @@
 {
-  "email": "gyaneshwarsingh8986@gmail.com",
-  "profile": {
-    "name": "Gyaneshwar Singh",
-    "role": "Full Stack Developer",
-    "bio": "Relentless in learning. Ruthless with bugs."
-  },
-  "socialLinks": [
-    {
-      "type": "github",
-      "href": "https://github.com/gyanuu"
+    "email": "ojusxe@gmail.com",
+    "profile": {
+        "name": "ojx",
+        "role": "business development associate",
+        "bio": "A brief bio about yourself",
+        "email": "ojusxe@gmail.com",
+        "image": "https://github.com/user-attachments/assets/74cd1882-ad98-40d0-a0f1-401dc8e94eaf",
+        "imageName": "profile_image.jpg"
+    },
+    "socialLinks": [
+        {
+            "type": "github",
+            "href": "https://github.com/SanyamPunia",
+            "order": 0
+        },
+        {
+            "type": "twitter",
+            "href": "https://twitter.com/ojusxe",
+            "order": 1
+        },
+        {
+            "type": "linkedin",
+            "href": "https://linkedin.com/in/ojusxe",
+            "order": 2
+        },
+        {
+            "type": "instagram",
+            "href": "https://instagram.com/ojusw",
+            "order": 3
+        }
+    ],
+    "gridLinks": [
+        {
+            "id": 4,
+            "title": "Project Title 1",
+            "description": "A brief description of your project",
+            "image": "https://example.com/project-image-1.jpg",
+            "url": "https://example.com/project-1",
+            "layout": "grid",
+            "order": 0
+        },
+        {
+            "id": 3,
+            "title": "Project Title 2",
+            "description": "A brief description of your project",
+            "image": "https://example.com/project-image-2.jpg",
+            "url": "https://example.com/project-2",
+            "layout": "grid",
+            "order": 1
+        },
+        {
+            "id": 3,
+            "title": "Project Title 3",
+            "description": "A brief description of your project",
+            "image": "https://example.com/project-image-3.jpg",
+            "url": "https://example.com/project-3",
+            "layout": "grid",
+            "order": 2
+        },
+        {
+            "id": 1,
+            "title": "Project Title 4",
+            "description": "A brief description of your project",
+            "image": "https://example.com/project-image-4.jpg",
+            "url": "https://example.com/project-4",
+            "layout": "grid",
+            "order": 3
+        }
+    ],
+    "settings": {
+        "layout": "grid",
+        "showContactForm": true
     }
-  ],
-  "gridLinks": [
-    {
-      "title": "My Project",
-      "description": "A sample project",
-      "image": "https://via.placeholder.com/300",
-      "url": "https://github.com/gyanuu",
-      "layout": "grid"
-    }
-  ],
-  "settings": {
-    "layout": "grid"
-  }
 }
